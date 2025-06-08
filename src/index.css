@@ -5,9 +5,78 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #f8f9fa;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.sidebar {
+  background-color: #343a40;
+  color: white;
+  padding: 20px 0;
+}
+
+.sidebar .nav-link {
+  color: rgba(255, 255, 255, 0.7);
+  border-radius: 0;
+  padding: 10px 20px;
+  transition: all 0.2s;
+}
+
+.sidebar .nav-link:hover {
+  color: white;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.sidebar .nav-link.active-link {
+  color: white;
+  background-color: #0d6efd;
+  border-left: 4px solid white;
+}
+
+.sidebar-header {
+  padding: 0 20px 20px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.stats-card {
+  transition: transform 0.2s;
+  border: none;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.stats-card:hover {
+  transform: translateY(-5px);
+}
+
+.data-table-container {
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.table th {
+  font-weight: 600;
+  background-color: #f8f9fa;
+}
+
+.table-hover tbody tr:hover {
+  background-color: rgba(13, 110, 253, 0.05);
+}
+
+.pagination .page-item .page-link {
+  border-radius: 5px;
+  margin: 0 3px;
+}
+
+.active-link {
+  color: white !important;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-left: 4px solid #0d6efd;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
 }
