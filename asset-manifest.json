@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SalimManagementSystem/static/css/main.81312e9a.css",
+    "main.js": "/SalimManagementSystem/static/js/main.9bfb3b40.js",
+    "static/js/453.e50b15cf.chunk.js": "/SalimManagementSystem/static/js/453.e50b15cf.chunk.js",
+    "static/media/fa-solid-900.ttf": "/SalimManagementSystem/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/SalimManagementSystem/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/SalimManagementSystem/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/SalimManagementSystem/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/SalimManagementSystem/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/SalimManagementSystem/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/SalimManagementSystem/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/SalimManagementSystem/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/SalimManagementSystem/index.html",
+    "main.81312e9a.css.map": "/SalimManagementSystem/static/css/main.81312e9a.css.map",
+    "main.9bfb3b40.js.map": "/SalimManagementSystem/static/js/main.9bfb3b40.js.map",
+    "453.e50b15cf.chunk.js.map": "/SalimManagementSystem/static/js/453.e50b15cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81312e9a.css",
+    "static/js/main.9bfb3b40.js"
+  ]
+}
